@@ -5,7 +5,8 @@ Set of scripts to compute coverage stats across a set of targetted intervals
 ## Installation
 
 ```
-git clone 
+git clone git@github.com:asifrim/CoverageStats.git
+``` 
 
 ## Usage
 
